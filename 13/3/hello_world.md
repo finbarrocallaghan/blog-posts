@@ -9,11 +9,9 @@ Summary: customary hello world post
 I know such flagrant pollution of the namespace isn't exactly *best practice*,
 but I pretty much **always** import pylab anyway.. 
 
-
-```python
-from pylab import *
-print "hello world"
-```
+    :::python
+    from pylab import *
+    print "hello world"
 
 <br />
 this page will hopefully serve as somewhat of a logbook, mostly
