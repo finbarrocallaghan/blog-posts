@@ -9,7 +9,7 @@ Summary: setting up dd-wrt on eircom broadband
 
 connecting to the [wan][1]
 
-![wan settings](/static/images/wan_settings.png)
+<p align="center"><img src="/static/images/wan_settings.png" alt="wan settings"/></p>
 
     :::text
     username: eircom@eircom.net
@@ -25,7 +25,8 @@ command shell and [Save Firewall][2]
      iptables -t nat -A POSTROUTING -j MASQUERADE 
 <br />
 
-![firewall settings](/static/images/firewall_settings.png)
+<p align="center"><img src="/static/images/firewall_settings.png"
+alt="firewall settings"/></p>
 
 
 
