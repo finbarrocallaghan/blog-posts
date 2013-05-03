@@ -5,6 +5,7 @@ Category:
 Slug: setting_up_konsole
 Author: Finbarr O'Callaghan
 Summary: making konsole usable
+Modified:
 
 
 [konsole][1] is the terminal emulator bundled with KDE.. it's one of the faster

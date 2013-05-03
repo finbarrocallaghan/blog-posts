@@ -5,6 +5,7 @@ Category:
 Slug: a_presentation_in_latex
 Author: Finbarr O'Callaghan
 Summary: building a presentation in LaTeX, with beamer
+Modified:
 
 typesetting in LaTeX has various advantages for writing scientific
 articles or even a thesis... but building a presentation is a bit

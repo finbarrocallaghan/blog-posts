@@ -5,6 +5,7 @@ Category:
 Slug: first-post
 Author: Finbarr O'Callaghan
 Summary: customary hello world post
+Modified:
 
 I know such flagrant pollution of the namespace isn't exactly *best practice*,
 but I pretty much **always** import pylab anyway.. 

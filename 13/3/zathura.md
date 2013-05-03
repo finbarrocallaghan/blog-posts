@@ -5,6 +5,7 @@ Category:
 Slug: zathura
 Author: Finbarr O'Callaghan
 Summary: a minimalist, customizable pdf reader
+Modified:
 
 spending a lot of time looking at pdfs in evince/okular/acroread can get
 old pretty quickly... [zathura][1] is 
