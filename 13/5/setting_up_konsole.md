@@ -38,9 +38,10 @@ konsole could handle..
 
 ###the end result
 
-<p align="center"><img src="/static/images/konsole_colorscheme.png" alt="example colorscheme"/></p>
+[<p align="center"><img src="/static/images/konsole_colorscheme_thumb.png" alt="example colorscheme"/></p>][5]
 
 [1]: http://konsole.kde.org/
 [2]: http://ethanschoonover.com/solarized
 [3]: http://crunchbang.org/forums/viewtopic.php?id=9935
 [4]: https://github.com/finbarrocallaghan/konsole_kolors
+[5]: /static/images/konsole_colorscheme.png
