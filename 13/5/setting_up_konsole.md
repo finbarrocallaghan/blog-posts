@@ -24,7 +24,7 @@ another setting i like use is to drop the kwin titlebar and frame.. to do this
 you have to right click your konsole title bar.. bringing up the following
 window.. when you're sorted it should look something like: 
 
-<p align="center"><img src="/static/images/konsole_window_settings.png" alt="konsole window settings"/></p>
+[<p align="center"><img src="/static/images/konsole_window_settings_thumb.png" alt="konsole window settings"/></p>][6]
 
 ###a konsole 'kolorscheme'
 the next step in de-uglifying  konsole is to sort a decent colorscheme.. there's
@@ -45,3 +45,4 @@ konsole could handle..
 [3]: http://crunchbang.org/forums/viewtopic.php?id=9935
 [4]: https://github.com/finbarrocallaghan/konsole_kolors
 [5]: /static/images/konsole_colorscheme.png
+[6]: /static/images/konsole_window_settings.png
