@@ -176,7 +176,7 @@ between them is somewhat awkward..  for example copying/pasting stuff between se
 requires you to use an external clipboard  
 
 the tmux model however is pretty much
-<p align="center">`sever -> session -> window -> pane`</p> 
+<p align="center">`server -> session -> window -> pane`</p> 
 which initially seems a bit complicated, and it certainly takes a bit of getting
 used to, but it overcomes many of the annoying things about screen.. with tmux
 you run your sessions under a single server, this means you can easily switch
