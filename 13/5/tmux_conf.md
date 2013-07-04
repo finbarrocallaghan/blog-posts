@@ -5,7 +5,7 @@ Category:
 Slug: tmux_conf
 Author: Finbarr O'Callaghan
 Summary: a ~/.tmux.conf, with some justification
-Modified:
+Modified: 2013-07-01 18:01
 
 
 [tmux][1]...
@@ -196,6 +196,13 @@ buffers, which is nice..
 another consequence of the single server thing is that you can send any
 individual pane pretty much wherever you want, with
 <p align="center">`:join-pane -t session_name:window_number.pane_number`</p> 
+
+####synchronize-panes
+if you have lots of panes open, but want to do the same thing in all of them..
+you can toggle this functionality on/off by doing 
+<p align="center">`:set synchronize-panes`</p>
+which looks a bit unwieldy, but fortunately tab-completion saves the day
+
 
 
 [1]: http://tmux.sourceforge.net/
