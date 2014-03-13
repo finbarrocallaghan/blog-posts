@@ -169,7 +169,7 @@ really not a whole pile more too it..
     latexmk -pvc -pdf tex_file_containing_all_the_include_and_includeonly_bits
 <br/>
 should compile and open your document, and the `-pvc` flag makes sure your
-`pdf` gets updated every time you make a changes in your `.tex` files.. the
+`pdf` gets updated every time you make a change in your `.tex` file.. the
 `-pdf` flag is assuming your graphics are pdfs, obviously if you're using `eps`
 or `ps` graphics you'd use `-ps` instead
 

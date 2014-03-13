@@ -87,8 +87,8 @@ bet is to get the data out of AUTO and far away as fast as possible....
 a crude regex that i've been using (for example)
 
     :::text
-    AUTO In [4]: !tail -n +17 fort.7 | awk '{print $2","$5","$7","$8}' \n
-                                     | sed -e '1s/^/st,js,i1,i2\n/'    \n
+    AUTO In [4]: !tail -n +17 fort.7 | awk '{print $2","$5","$7","$8}' \
+                                     | sed -e '1s/^/st,js,i1,i2\n/'    \
                                      | sed 's/\([0-9]\)-\([0-9]\)/\1E-\2/g' > hopf.sol
 <br />
 here you get out information about the stability of the equilibrium/limit cycle
