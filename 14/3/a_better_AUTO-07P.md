@@ -36,8 +36,8 @@ but wait, surely this stuff is documented somewhere?!
 anyway, long story short, I (with lots of help) found (at least for me) a really
 nice workflow..
 
-one of my biggest gripes with AUTO is that I end up with a 101 files lying
-scattered around the place, all the c.whatever files with the parameters
+one of my biggest gripes with AUTO is that I end up with a hundred and one files
+lying scattered around the place, all the c.whatever files with the parameters
 specifying what type of continuation I'm going to be doing etc etc.. this is a
 nightmare to manage, and also, when you're jumping around between lots of files
 you (or at least I) tend to lose my train of thought, and get distracted..
@@ -90,8 +90,8 @@ interactive AUTO pythonic interface, we do
     :::text
     ~/ $ PYTHONPATH=~/auto/07p/python ipython
 <br />
-which of course drops us to a standard ipython shell, but, as a bonus, we have
-can run our .py script, and have the full power of AUTO and ipython available,
+which of course drops us to a standard ipython shell, but, as a bonus, we can
+run our .py script, and have the full power of AUTO and ipython available,
 without having to overwrite all the nice stuff in our namespace..
 
 now, from within the ipython shell, we can do
@@ -122,6 +122,7 @@ scaled, or manipulated as we see fit (another advantage over messing with the
 standard AUTO interface)
 
 <p align="center"><img src="/static/images/example_bifurcation_diagram.png" alt="example bifurcation diagram"/></p>
+<p align="right"><img src="/static/images/obama_not_bad.png" alt="obama not bad"/></p>
 
 ###stability?!
 
